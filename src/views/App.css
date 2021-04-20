@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.Home{
+margin: 200px;
+text-align: center;
+}
+
+.App{
+    height: 100vh;
+    background-color: rgb(243, 243, 244);
+}
